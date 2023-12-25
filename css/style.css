@@ -308,23 +308,23 @@ footer .container{
     /* background: black; */
 }
 footer .container h2{
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
     text-align: center;
     font-size: 36px;
 }
 
 footer .container .left .left_part  h3{
     font-size: 25px;
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
 }
 footer .container .left .left_part p{
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
     font-size: 15px;
     font-family: 'Open Sans', sans-serif;
 }
 
 footer .container .left .icon{
-    color: antiquewhite;
+    color: rgb(255, 255, 255);
     display: flex;
     column-gap: 20px;
     margin: 15px 0;
